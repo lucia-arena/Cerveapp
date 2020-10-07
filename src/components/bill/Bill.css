@@ -1,0 +1,25 @@
+.billContainer{
+    padding-top: 5%;
+    background-color: #ffffff ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn-add-container{
+    display: block;
+    min-width: 100%;
+    margin-top: 3%;
+}
+
+button.btn.btn-add.btn-lg.btn.btn-dark {
+    float: right;
+}
+
+.total-container{
+    min-width: 100%;  
+}
+.total-container h5{
+float: left;
+margin-top: 4%;
+}

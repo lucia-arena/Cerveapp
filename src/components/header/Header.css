@@ -1,0 +1,44 @@
+.header{
+    background-color: #FAC83B;
+    width: 100%;
+    height: min-content;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.birra-logo{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 10%;
+}
+
+.settings-logo{
+    background-color: #FAC83B;
+}
+
+.btn-group.mt-3 {
+margin-left: 5%;
+}
+.btn-settings{
+    background-image:url("/img/setting.png"); 
+    background-color: transparent;
+    height: 100px;
+    width: 100px;
+    border-style: none;
+    background-repeat: no-repeat;
+}
+
+.btn-hamburguer{
+    background-image:url("/img/hamburguer.png"); 
+    background-color: transparent;
+    height: 100px;
+    width: 100px;
+    border-style: none;
+    background-repeat: no-repeat;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10%;
+}

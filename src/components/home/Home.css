@@ -1,0 +1,11 @@
+.homeContainer{
+    padding-top: 5%;
+    background-color: rgb(250,207,57);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.btn-home{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}

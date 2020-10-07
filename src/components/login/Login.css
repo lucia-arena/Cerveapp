@@ -1,0 +1,11 @@
+.login-group{
+    margin-top: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#btn-back{
+    float: right;
+    margin-right: 5%;
+    margin-top: 5%;
+}
